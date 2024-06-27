@@ -83,7 +83,7 @@ sh
 Copy code
 cd frontend
 npm run dev
-Open your browser and navigate to http://localhost:3000 to see the application running.
+Open your browser and navigate to http://localhost:5174/ to see the application running.
 Usage
 Home Page: Welcome to the application.
 Form Page: Navigate to /form to submit a new form.
